@@ -1,5 +1,5 @@
 {
-  "name": "react-csv-importer",
+  "name": "@codingheads/react-csv-importer",
   "version": "0.5.0",
   "description": "React CSV import widget with user-customizable mapping",
   "keywords": [
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/beamworks/react-csv-importer"
+    "url": "https://github.com/Codingheads-Developer/react-csv-importer"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
